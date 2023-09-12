@@ -1,52 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<head>
-  <style>
-   body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  background-color: #f9f9f9;
-}
-
-header {
-  background-color: #f2d2e4;
-  text-align: center;
-  padding: 1em;
-}
-
-nav ul {
-  background-color: #f2d2e4;
-  overflow: hidden;
-  color: white;
-}
-
-nav ul li {
-  float: left;
-  display: inline;
-  padding: 14px 16px;
-}
-
-section {
-  margin: 15px;
-  padding: 15px;
-  text-align: justify;
-}
-
-footer {
-  background-color: #f2d2e4;
-  text-align: center;
-  padding: 1em;
-  position: relative;
-  bottom: 0;
-  width: 100%;
-}
-
-  </style>
-</head>
-
-  <meta charset="UTF-8">
+<meta charset="UTF-8">
   <title>Virtual Support Co.</title>
   <link rel="stylesheet" href="styles.css">
 </head>
